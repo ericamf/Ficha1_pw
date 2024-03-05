@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: x-large;
+    color:white
+}
+
+p{
+    color:yellowgreen;
+    padding: 8px;
+
+}
+
+img{
+    border: 10px solid yellowgreen; 
+    padding: 10px;
+}
